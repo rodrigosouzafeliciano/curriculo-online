@@ -31,7 +31,7 @@
 | **Nome completo**    | Rodrigo Souza Feliciano                                                                                             |
 | **Localização**      | Laguna, Santa Catarina, Brasil                                                                                      |
 | **E-mail**           | [rodrigo.souza.f3liciano@gmail.com](mailto:rodrigo.souza.f3liciano@gmail.com)                                       |
-| **LinkedIn**         | [linkedin.com/in/rodrigo-souza-feliciano-312974374](https://www.linkedin.com/in/rodrigo-souza-feliciano-312974374/) |
+| **LinkedIn**         | [linkedin.com/in/rodrigosouzafeliciano](https://www.linkedin.com/in/rodrigosouzafeliciano/) |
 | **GitHub**           | [github.com/rodrigosouzafeliciano](https://github.com/rodrigosouzafeliciano)                                        |
 | **Portfólio**        | [portfolio-rodrigo-pink.vercel.app](https://portfolio-rodrigo-pink.vercel.app/)                                     |
 | **Currículo Online** | [github.com/rodrigosouzafeliciano/curriculo-online](github.com/rodrigosouzafeliciano/curriculo-online)              |
