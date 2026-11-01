@@ -67,7 +67,7 @@ Full stack developer and QA analyst with 1 year and 4 months at Orbe Soft, worki
 - **Tier 2/3 support (N2/N3):** Diagnosed and resolved production incidents and software failures through log analysis and code debugging, reducing service downtime (MTTR).
 
 #### Independent Developer (Workana and direct consulting)
-**Full Stack Developer (Web, Mobile, and Landing Pages)** · Remote · [workana.com/freelancer/rodrigosouzafeliciano](https://www.workana.com/freelancer/rodrigosouzafeliciano)  
+**Full Stack Developer (Web, Mobile, and Landing Pages)** · Remote · [workana.com/freelancer/74d3fb12657221480eee7f5aa54fcba5](https://www.workana.com/freelancer/74d3fb12657221480eee7f5aa54fcba5)  
 *Stack: React.js, Next.js, React Native, Node.js, Express.js, PostgreSQL, Redis, Tailwind CSS, REST APIs, Git*
 
 - **Full stack applications:** Built full stack web applications and SaaS platform MVPs on demand, from relational database design to reactive React and Next.js interfaces.
@@ -149,7 +149,7 @@ Desenvolvedor full stack e analista de QA com 1 ano e 4 meses na Orbe Soft, atua
 - **Suporte N2/N3:** Diagnosticou e resolveu incidentes e falhas de software em produção por meio de análise de logs e depuração de código, reduzindo o tempo de indisponibilidade dos serviços (MTTR).
 
 #### Desenvolvedor Independente (Workana e consultoria direta)
-**Desenvolvedor Full Stack (Web, Mobile e Landing Pages)** · Remoto · [workana.com/freelancer/rodrigosouzafeliciano](https://www.workana.com/freelancer/rodrigosouzafeliciano)  
+**Desenvolvedor Full Stack (Web, Mobile e Landing Pages)** · Remoto · [workana.com/freelancer/74d3fb12657221480eee7f5aa54fcba5](https://www.workana.com/freelancer/74d3fb12657221480eee7f5aa54fcba5)  
 *Tecnologias: React.js, Next.js, React Native, Node.js, Express.js, PostgreSQL, Redis, Tailwind CSS, REST APIs, Git*
 
 - **Aplicações full stack:** Desenvolveu aplicações web full stack e MVPs de plataformas SaaS sob demanda, da modelagem do banco de dados relacional às interfaces reativas em React e Next.js.
