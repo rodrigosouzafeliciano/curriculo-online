@@ -1,313 +1,330 @@
-# Rodrigo Souza Feliciano
+<div align="center">
+  <img src="./assets/curriculo-banner.svg" width="100%" alt="Rodrigo Souza Feliciano - Currículo Online / Online Resume" />
+</div>
 
-> Desenvolvedor Frontend & Mobile (React Native) · Laguna, SC, Brasil
+<br />
+
+<p align="center">
+  <a href="./pdf/Rodrigo_Souza_Feliciano_Curriculo_pt-BR.pdf">
+    <img src="https://img.shields.io/badge/📄_Baixar_Currículo_(PT--BR_PDF)-10B981?style=for-the-badge" alt="Baixar Currículo PT-BR PDF" />
+  </a>
+  <a href="./pdf/Rodrigo_Souza_Feliciano_Resume_en-US.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_Resume_(EN--US_PDF)-0284C7?style=for-the-badge" alt="Download Resume EN-US PDF" />
+  </a>
+  <a href="./pdf/Rodrigo_Souza_Feliciano_Curriculo_pt-BR.docx">
+    <img src="https://img.shields.io/badge/📝_Currículo_DOCX_(PT--BR)-1E293B?style=for-the-badge" alt="Baixar DOCX PT-BR" />
+  </a>
+  <a href="./pdf/Rodrigo_Souza_Feliciano_Resume_en-US.docx">
+    <img src="https://img.shields.io/badge/📝_Resume_DOCX_(EN--US)-1E293B?style=for-the-badge" alt="Download DOCX EN-US" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-versão-em-português-pt-br"><strong>🇧🇷 Versão em Português (PT-BR)</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#-english-version-en-us"><strong>🇺🇸 English Version (EN-US)</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio-rodrigo-pink.vercel.app" target="_blank"><strong>🌐 Portfólio / Live Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rodrigosouzafeliciano/" target="_blank"><strong>💼 LinkedIn</strong></a>
+</p>
 
 ---
 
-## Índice
+# 🇧🇷 Versão em Português (PT-BR)
+
+## Índice (PT-BR)
 
 1. [Identificação e Contato](#1-identificação-e-contato)
-2. [Perfil Profissional](#2-perfil-profissional)
+2. [Resumo Profissional](#2-resumo-profissional)
 3. [Stack Técnico](#3-stack-técnico)
-   - 3.1 [Frontend Web](#31-frontend-web)
-   - 3.2 [Mobile](#32-mobile)
-   - 3.3 [Backend & Banco de Dados](#33-backend--banco-de-dados)
-   - 3.4 [DevOps, Ferramentas & Plataformas](#34-devops-ferramentas--plataformas)
-   - 3.5 [Inteligência Artificial](#35-inteligência-artificial)
-4. [Projetos](#4-projetos)
-   - 4.1 [Sistema Kanghoo](#41-sistema-kanghoo--plataforma-de-transporte-escolar-e-excursões)
-5. [Experiência Profissional](#5-experiência-profissional)
-6. [Formação Acadêmica](#6-formação-acadêmica)
+4. [Experiência Profissional](#4-experiência-profissional)
+5. [Projetos de Engenharia](#5-projetos-de-engenharia)
+6. [Formação Acadêmica e Qualificações](#6-formação-acadêmica-e-qualificações)
 7. [Competências Comportamentais](#7-competências-comportamentais)
 8. [Idiomas](#8-idiomas)
-9. [Dados Pessoais](#9-dados-pessoais)
 
 ---
 
 ## 1. Identificação e Contato
 
-| Campo                | Informação                                                                                                          |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Nome completo**    | Rodrigo Souza Feliciano                                                                                             |
-| **Localização**      | Laguna, Santa Catarina, Brasil                                                                                      |
-| **E-mail**           | [rodrigo.souza.f3liciano@gmail.com](mailto:rodrigo.souza.f3liciano@gmail.com)                                       |
-| **LinkedIn**         | [linkedin.com/in/rodrigosouzafeliciano](https://www.linkedin.com/in/rodrigosouzafeliciano/) |
-| **GitHub**           | [github.com/rodrigosouzafeliciano](https://github.com/rodrigosouzafeliciano)                                        |
-| **Portfólio**        | [portfolio-rodrigo-pink.vercel.app](https://portfolio-rodrigo-pink.vercel.app/)                                     |
-| **Currículo Online** | [github.com/rodrigosouzafeliciano/curriculo-online](github.com/rodrigosouzafeliciano/curriculo-online)              |
-| **Disponibilidade**  | Remoto · Híbrido · Presencial · Internacional                                                                       |
+| Campo | Informação |
+| :--- | :--- |
+| **Nome completo** | Rodrigo Souza Feliciano |
+| **Posicionamento** | Desenvolvedor Full Stack (React, Next.js, TypeScript, Node.js, PostgreSQL, Docker e React Native) |
+| **Localização** | Laguna, Santa Catarina, Brasil (`UTC-3`) |
+| **Telefone / WhatsApp** | [+55 (48) 99926-3583](https://wa.me/5548999263583) |
+| **E-mail** | [rodrigo.souza.f3liciano@gmail.com](mailto:rodrigo.souza.f3liciano@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/rodrigosouzafeliciano](https://www.linkedin.com/in/rodrigosouzafeliciano/) |
+| **GitHub** | [github.com/rodrigosouzafeliciano](https://github.com/rodrigosouzafeliciano) |
+| **Portfólio** | [portfolio-rodrigo-pink.vercel.app](https://portfolio-rodrigo-pink.vercel.app/) |
+| **Currículo Online** | [github.com/rodrigosouzafeliciano/curriculo-online](https://github.com/rodrigosouzafeliciano/curriculo-online) |
+| **Disponibilidade** | 100% Remoto (Brasil e Internacional) · Tempo Integral (CLT, PJ ou Contrato Internacional) |
 
 ---
 
-## 2. Perfil Profissional
+## 2. Resumo Profissional
 
-Desenvolvedor Junior com especialização em **Frontend Web** e **Mobile (React Native)**, formado tecnicamente pelo SENAC com 600 horas de capacitação nas áreas de programação web, sistemas e gestão — e com experiência profissional real de um ano na Orbe Soft, empresa de desenvolvimento de software, onde atuou de forma progressiva em suporte técnico, garantia de qualidade e desenvolvimento frontend.
+**Desenvolvedor Full Stack** com experiência prática na construção de aplicações web e mobile completas utilizando **React, Next.js, TypeScript, Vue.js, React Native, Node.js (Koa e Express), PostgreSQL e Redis**, além de formação sólida em **Qualidade de Software (QA)** e diagnóstico de incidentes em produção.
 
-Autor do **Sistema Kanghoo** — plataforma completa de transporte escolar com rastreamento em tempo real, construída com Node.js, Koa.js, PostgreSQL, Redis, Socket.IO, Docker, Nginx, Prometheus e Grafana. Um projeto de conclusão de curso que vai muito além do esperado para o nível de formação: implementa Clean Architecture, containerização, monitoramento de produção e documentação técnica completa — demonstrando na prática a capacidade de projetar e entregar sistemas de engenharia em nível profissional.
+Autor do **[Sistema Kanghoo](https://github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo)**, plataforma completa de gestão de transporte escolar e excursões com rastreamento GPS em tempo real, estruturada em **Clean Architecture** com injeção de dependência (`Awilix`), mais de 23 rotas REST, comunicação bidirecional via `Socket.IO`, cache com `Redis`, containerização com `Docker` e `Docker Compose`, proxy reverso `Nginx` com SSL e monitoramento em produção com `Prometheus` e `Grafana`.
 
-Fortemente inserido no ecossistema de **Inteligência Artificial aplicada ao desenvolvimento de software**, incorpora ferramentas de IA de forma estratégica e cotidiana ao fluxo de trabalho — utilizando Claude, Codex, Figma Make, Stitch e Antigravity para ampliar a produtividade, acelerar entregas e operar na vanguarda das práticas do mercado. Essa imersão constitui um diferencial técnico concreto em um setor que atravessa uma transformação acelerada em direção ao desenvolvimento assistido por inteligência artificial.
+Na **Orbe Soft** (`Maio de 2025 a Agosto de 2026`), construiu uma trajetória progressiva passando por Suporte Técnico, QA Tester (Analista de Qualidade de Software) e Desenvolvedor Web Frontend, desenvolvendo uma visão ponta a ponta do ciclo de vida de software, da concepção e codificação à validação rigorosa e sustentação em produção.
 
-Possui padrão pessoal de **zero tolerância a bugs** — extremamente detalhista e exigente na validação de cada sistema entregue, o que se refletiu diretamente na atuação como QA Tester e no nível de acabamento dos projetos desenvolvidos.
-
-**Objetivo de carreira:** contribuir com equipes dinâmicas, inovadoras e de alto desempenho, com abertura para oportunidades em âmbito nacional ou internacional.
+Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela Universidade Pitágoras Unopar Anhanguera (`2026 - 2028`) e certificado pelo **SENAC Santa Catarina** com 600 horas de formação técnica em programação web, desenvolvimento de sistemas e processos administrativos. Integra ferramentas de Inteligência Artificial (`Claude Code`, `Codex`, `Cursor`, `Antigravity`, `Figma Make` e `Stitch`) de forma estratégica ao fluxo diário de engenharia, unindo produtividade com revisão humana criteriosa e padrão de zero defeito nas entregas.
 
 ---
 
 ## 3. Stack Técnico
 
-### 3.1 Frontend Web
+### 3.1 Frontend Web &amp; Mobile
 
-Domínio do stack moderno de desenvolvimento frontend, com capacidade de construir interfaces completas, responsivas, acessíveis e visualmente consistentes — desde a marcação semântica e estilização até a componentização em frameworks reativos e gerenciamento de estado.
+| Tecnologia | Aplicação Prática |
+| :--- | :--- |
+| **React &amp; Next.js** | Construção de interfaces componentizadas, SSR/SSG, gerenciamento de estado com hooks nativos, roteamento e consumo de APIs REST. |
+| **TypeScript &amp; JavaScript (ES6+)** | Tipagem estática, programação assíncrona (`Promises`, `async/await`), manipulação do DOM, eventos e arquitetura modular. |
+| **Vue.js** | Desenvolvimento de Single Page Applications (SPAs) com Composition API e Options API, reatividade declarativa e componentização. |
+| **React Native** | Desenvolvimento de aplicações móveis multiplataforma para Android, compartilhando lógica de negócio, hooks, navegação e integração de APIs. |
+| **Tailwind CSS, CSS3 &amp; HTML5** | Marcação semântica acessível (WCAG), estilização utilitária, CSS Grid, Flexbox, variáveis nativas, animações e responsividade multi-dispositivo. |
+| **Vite &amp; Webflow** | Bundling moderno com HMR otimizado para produção e desenvolvimento ágil de landing pages institucionais e comerciais com CMS. |
 
-| Tecnologia   | Descrição                                                                                                                                                                                     |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HTML5        | Marcação semântica e estruturada com foco em acessibilidade, hierarquia de conteúdo e conformidade com padrões modernos da web                                                                |
-| CSS3         | Estilização avançada com Flexbox, CSS Grid, variáveis nativas, animações, transições e design responsivo orientado a múltiplos dispositivos e resoluções                                      |
-| JavaScript   | Programação orientada a eventos, manipulação do DOM, tratamento assíncrono com Promises e async/await, consumo de APIs REST e fundamentos sólidos de ES6+                                     |
-| React        | Construção de interfaces componentizadas com componentes funcionais, gerenciamento de estado com hooks nativos (useState, useEffect, useContext, entre outros) e integração com APIs externas |
-| Vue.js       | Desenvolvimento de Single Page Applications (SPAs) com Composition API e Options API, reatividade declarativa e organização modular por componentes                                           |
-| Tailwind CSS | Estilização utilitária orientada a classes, com alta produtividade, consistência visual e responsividade nativa sem escrita de CSS volumoso personalizado                                     |
-| Bootstrap    | Framework CSS para prototipação ágil, sistema de grid responsivo e utilização de componentes de interface prontos para uso                                                                    |
-| Vite         | Bundler e servidor de desenvolvimento moderno com hot module replacement (HMR), configuração enxuta e build otimizado para produção                                                           |
+### 3.2 Backend, Arquitetura &amp; Bancos de Dados
 
----
+| Tecnologia | Aplicação Prática |
+| :--- | :--- |
+| **Node.js (Koa.js &amp; Express)** | Desenvolvimento de APIs RESTful escaláveis, estruturação de rotas, controladores, middlewares de validação, tratamento de erros e ES Modules. |
+| **Clean Architecture &amp; Awilix** | Separação estrita em camadas (`Domain`, `Application`, `Infrastructure` e `Interface`) com injeção de dependência e baixo acoplamento. |
+| **PostgreSQL &amp; SQL** | Modelagem de bancos de dados relacionais, constraints, índices, migrações e consultas SQL complexas (`JOINs`, agregações e transações). |
+| **Redis** | Cache em memória para dados de acesso frequente e suporte a baixa latência em fluxos de telemetria em tempo real. |
+| **Socket.IO / WebSockets** | Comunicação bidirecional em tempo real entre clientes e servidor para rastreamento GPS ao vivo e alertas instantâneos. |
+| **Python &amp; Java (POO)** | Automação de processos, scripts utilitários, manipulação de dados e fundamentos de Programação Orientada a Objetos. |
 
-### 3.2 Mobile
+### 3.3 DevOps, Infraestrutura, Segurança &amp; QA
 
-Desenvolvimento de aplicações móveis multiplataforma com React Native, aproveitando os fundamentos do ecossistema React para construir produtos nativos a partir de uma única base de código em JavaScript.
-
-| Tecnologia   | Descrição                                                                                                                                                                          |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| React Native | Desenvolvimento de aplicações móveis para **Android**, compartilhando lógica de negócio e componentes com base no ecossistema React — incluindo hooks, navegação e consumo de APIs |
-
----
-
-### 3.3 Backend & Banco de Dados
-
-Conhecimento em desenvolvimento server-side e modelagem de dados, com capacidade de construir APIs funcionais, estruturar bancos de dados relacionais e implementar lógica de negócio no servidor.
-
-| Tecnologia | Descrição                                                                                                                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Node.js    | Desenvolvimento de APIs RESTful e serviços server-side com JavaScript, estruturação de rotas, middlewares e controladores utilizando módulos nativos e do ecossistema npm                           |
-| Koa.js     | Framework minimalista para Node.js utilizado na construção de APIs com middleware assíncrono, controle fino de contexto de requisições e respostas                                                  |
-| Python     | Scripting, automações, manipulação de dados e fundamentos de desenvolvimento back-end com foco em produtividade e legibilidade de código                                                            |
-| PostgreSQL | Modelagem de banco de dados relacional, criação e gerenciamento de tabelas, definição de relacionamentos e constraints, e escrita de consultas SQL complexas (SELECT, JOIN, INSERT, UPDATE, DELETE) |
-| Redis      | Implementação de cache para dados de acesso frequente, reduzindo carga sobre o banco de dados e acelerando o tempo de resposta das aplicações                                                       |
-| Socket.IO  | Comunicação bidirecional em tempo real entre cliente e servidor via WebSocket, utilizado para rastreamento ao vivo e notificações instantâneas                                                      |
+| Tecnologia | Aplicação Prática |
+| :--- | :--- |
+| **Docker &amp; Docker Compose** | Containerização de aplicações e serviços com ambientes isolados e paridade entre desenvolvimento e produção. |
+| **Nginx &amp; SSL** | Configuração de proxy reverso, terminação SSL/TLS, roteamento de tráfego e proteção em camada de rede. |
+| **Prometheus &amp; Grafana** | Coleta de métricas de saúde de aplicação/infraestrutura e visualização em dashboards de observabilidade em tempo real. |
+| **Segurança de API** | Autenticação stateless com `JWT`, controle de acesso baseado em papéis (`RBAC`), hash de senhas com `Bcrypt` e `Rate Limiting`. |
+| **Git, GitHub &amp; Linux** | Fluxos Git Flow, Pull Requests, Code Review, automação de pipelines CI/CD com GitHub Actions e operação em ambiente Linux/Bash. |
+| **Qualidade de Software (QA)** | Planejamento e execução de testes funcionais, de regressão e de aceitação, matrizes de cobertura e gestão completa do ciclo de vida de bugs. |
 
 ---
 
-### 3.4 DevOps, Ferramentas & Plataformas
+## 4. Experiência Profissional
 
-Familiaridade com o ecossistema de ferramentas utilizadas no desenvolvimento profissional moderno, cobrindo controle de versão, colaboração em equipe, containerização, deploy, monitoramento e publicação de aplicações — várias delas aplicadas em contexto real de produção no projeto Kanghoo.
+### 4.1 Desenvolvedor Full Stack · Autônomo / Freelance
+**2025 - Presente · Remoto**
 
-| Ferramenta   | Descrição                                                                                                                                                                   |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Git          | Controle de versão distribuído com gerenciamento de branches, commits semânticos, merge, rebase e resolução de conflitos em fluxos colaborativos                            |
-| GitHub       | Hospedagem de repositórios, colaboração via pull requests, revisão de código, gerenciamento de issues e automações básicas com GitHub Actions                               |
-| GitHub Pages | Publicação de projetos e páginas estáticas diretamente a partir de repositórios GitHub, sem necessidade de infraestrutura adicional                                         |
-| Vercel       | Plataforma de deploy contínuo e hospedagem de aplicações web modernas com integração nativa ao GitHub e suporte a rollback automático                                       |
-| Docker       | Containerização de aplicações com Dockerfile e Docker Compose, incluindo ambientes separados para desenvolvimento e produção com paridade total entre os ambientes          |
-| Nginx        | Configuração como proxy reverso com roteamento de requisições, SSL terminado e camada adicional de segurança em ambiente de produção                                        |
-| Prometheus   | Coleta e armazenamento de métricas de aplicação e infraestrutura para monitoramento contínuo da saúde do sistema em produção                                                |
-| Grafana      | Visualização de métricas em dashboards interativos, integrado ao Prometheus para observabilidade completa da aplicação                                                      |
-| Linux        | Uso como ambiente de desenvolvimento — operações via terminal, execução de scripts, gerenciamento de permissões e automações básicas em shell                               |
-| Webflow      | Desenvolvimento e publicação de sites e landing pages no-code/low-code com experiência profissional comprovada, incluindo responsividade, interações e gerenciamento de CMS |
+- Desenvolvimento ponta a ponta de aplicações web completas utilizando **React, Next.js, TypeScript e Node.js**, estruturadas com código limpo, componentização reutilizável e integração com bancos de dados relacionais (**PostgreSQL**) e cache (**Redis**).
+- Construção de aplicativos móveis para Android com **React Native**, compartilhando regras de negócio e integrando APIs REST e serviços em tempo real.
+- Criação e publicação de landing pages institucionais e comerciais de alta conversão, otimizadas para performance, SEO técnico e responsividade em múltiplos dispositivos.
+- Levantamento direto de requisitos com clientes, definição de arquitetura, deploy em nuvem (**Vercel**, **AWS**, **Docker**) e validação de qualidade antes de cada entrega.
 
----
+### 4.2 Desenvolvedor de Software &amp; Analista de QA · Orbe Soft
+**Maio de 2025 a Agosto de 2026 · Remoto**
 
-### 3.5 Inteligência Artificial
+Trajetória marcada por evolução progressiva em três frentes complementares dentro do ciclo de engenharia de software:
 
-Fortemente inserido no ecossistema de IA aplicada ao desenvolvimento de software. As ferramentas abaixo são utilizadas de forma prática, contínua e estratégica no fluxo de trabalho cotidiano — para ampliar a produtividade, acelerar escrita e revisão de código, gerar interfaces, apoiar decisões técnicas e automatizar etapas repetitivas do desenvolvimento.
-
-| Ferramenta / Modelo | Categoria              | Aplicação no fluxo de trabalho                                                                                                       |
-| ------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Claude (Anthropic)  | LLM / Assistente       | Geração e revisão de código, documentação técnica, raciocínio sobre arquitetura e suporte à tomada de decisões de desenvolvimento    |
-| Codex (OpenAI)      | Geração de Código      | Geração, sugestão, refatoração e explicação de código em diversas linguagens de programação                                          |
-| Figma Make          | Design com IA          | Geração automatizada de interfaces e componentes visuais a partir de descrições em linguagem natural, integrada ao ecossistema Figma |
-| Stitch              | Criação com IA         | Criação e prototipação rápida de produtos digitais assistida por inteligência artificial                                             |
-| Antigravity         | Desenvolvimento com IA | Automação de tarefas e suporte ao fluxo de desenvolvimento e criação de produtos digitais                                            |
+- **Desenvolvedor Web Frontend:**
+  - Desenvolvimento de interfaces web e landing pages institucionais e comerciais com foco em conversão, acessibilidade, semântica HTML5 e estilização responsiva em CSS3, JavaScript, React e **Webflow**.
+  - Elaboração e manutenção de **documentações técnicas** de projetos internos, registrando arquitetura, fluxos de dados, decisões de implementação e guias operacionais para alinhamento entre produto e engenharia.
+  - Colaboração direta com designers e gestores de produto para garantir fidelidade visual aos protótipos e consistência de design system.
+- **QA Tester (Analista de Qualidade de Software):**
+  - Planejamento e execução de **baterias de testes funcionais, de regressão e de aceitação**, cobrindo fluxos críticos de negócio e casos de borda antes das publicações em produção.
+  - Identificação, documentação estruturada e reporte de defeitos com passos claros de reprodução, evidências, ambiente afetado e classificação de severidade.
+  - Criação e manutenção de casos de teste e matrizes de rastreabilidade, acompanhando o ciclo de vida completo de cada bug até a homologação pós-correção.
+- **Suporte Técnico (N2/N3):**
+  - Triagem, diagnóstico e resolução de incidentes técnicos em produção por meio de análise de logs e depuração de comportamento de aplicações, reduzindo o tempo médio de recuperação (MTTR).
 
 ---
 
-## 4. Projetos
+## 5. Projetos de Engenharia
 
-### 4.1 Sistema Kanghoo — Plataforma de Transporte Escolar e Excursões
+### 5.1 Sistema Kanghoo: Plataforma de Transporte Escolar e Excursões
+- **Repositório:** [github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo](https://github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo)
+- **Stack:** `Node.js v20+`, `Koa.js`, `PostgreSQL 14+`, `Redis 7+`, `Socket.IO`, `Docker Compose`, `Nginx`, `Prometheus`, `Grafana`, `Awilix`, `JWT`, `Bcrypt`
+- **Destaques de Engenharia:**
+  - **Clean Architecture:** Separação rigorosa nas camadas `Domain`, `Application`, `Infrastructure` e `Interface`, com injeção de dependência via `Awilix` e mais de **23 rotas REST** documentadas.
+  - **Telemetria GPS em Tempo Real:** Motor WebSocket com `Socket.IO` e `Redis` para rastreamento ao vivo de veículos, controle digital de embarque/desembarque e notificações automáticas aos responsáveis.
+  - **Segurança &amp; Infraestrutura de Produção:** Autenticação `JWT`, `RBAC`, hash `Bcrypt`, `Rate Limiting`, proxy reverso `Nginx` com SSL/TLS, orquestração `Docker Compose` (ambientes dev e prod) e observabilidade completa com `Prometheus` e `Grafana`.
 
-**Natureza:** Projeto de Conclusão de Curso · Desenvolvimento colaborativo em equipe (colegas de turma — SENAC Tubarão)
-**Ano:** 2025 · **Status:** Concluído
-**Repositório:** [github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo](https://github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo)
-
-Plataforma web completa para gestão operacional de transporte escolar e excursões, com rastreamento GPS em tempo real, controle digital de embarque e desembarque de alunos e notificações automáticas para responsáveis. Projeto desenvolvido como Trabalho de Conclusão de Curso do programa Programador de Sistemas no SENAC Tubarão, aplicando na prática arquitetura de software, banco de dados, segurança e infraestrutura de produção.
-
-**Stack Tecnológico Completo:**
-
-| Camada                    | Tecnologia                           |
-| ------------------------- | ------------------------------------ |
-| Runtime                   | Node.js v20+ (ES Modules)            |
-| Framework Backend         | Koa.js                               |
-| Banco de Dados            | PostgreSQL 14+                       |
-| Cache                     | Redis 7+                             |
-| Comunicação em Tempo Real | Socket.IO / WebSocket                |
-| Proxy Reverso             | Nginx                                |
-| Containerização           | Docker / Docker Compose (dev e prod) |
-| Monitoramento             | Prometheus + Grafana                 |
-| Injeção de Dependência    | Awilix                               |
-| Segurança                 | JWT · Bcrypt · Rate Limiting         |
-| Frontend                  | HTML · CSS · JavaScript              |
-
-**Destaques de Arquitetura e Implementação:**
-
-- **Clean Architecture** com separação rigorosa em camadas — Domain, Application, Infrastructure e Interface — garantindo baixo acoplamento, alta testabilidade e facilidade de manutenção; padrão adotado por equipes de engenharia de alto nível no mercado;
-- **Rastreamento em tempo real** via Socket.IO / WebSocket, com comunicação bidirecional ao vivo entre motoristas, coordenadores e responsáveis pelos alunos;
-- **Cache com Redis** para otimização de performance em dados de acesso frequente, reduzindo carga sobre o banco e acelerando o tempo de resposta das requisições;
-- **Containerização completa** com Docker e Docker Compose — ambientes separados e paridade total entre desenvolvimento e produção;
-- **Proxy reverso com Nginx e SSL configurado** para ambiente de produção seguro, com roteamento de requisições e proteção em camada de rede;
-- **Monitoramento com Prometheus + Grafana** — coleta de métricas e visualização em dashboards, possibilitando observabilidade completa da aplicação em produção;
-- **Segurança em múltiplas camadas:** autenticação com JWT, hash de senhas com Bcrypt e Rate Limiting para proteção contra ataques de força bruta e abuso de API;
-- **Injeção de dependência com Awilix**, promovendo inversão de controle e desacoplamento entre módulos;
-- **Documentação técnica completa e profissional:** arquitetura do sistema, referência de APIs com endpoints e payloads, guia de configuração, fluxo de desenvolvimento, credenciais de teste, guia de deploy, hardening de segurança e configuração de monitoramento.
-
-**Distribuição de Linguagens no Repositório:**
-JavaScript 54,1% · HTML 25,0% · CSS 14,4% · PowerShell 4,0% · PLpgSQL/SQL 2,4% · Dockerfile 0,1%
+### 5.2 Portfólio Interativo de Engenharia
+- **Aplicação ao Vivo:** [portfolio-rodrigo-pink.vercel.app](https://portfolio-rodrigo-pink.vercel.app/)
+- **Repositório:** [github.com/rodrigosouzafeliciano/portfolio-rodrigo](https://github.com/rodrigosouzafeliciano/portfolio-rodrigo)
+- **Stack:** `React 19`, `Vite`, `JavaScript (ES6+)`, `CSS3 Custom Properties`, `Vercel CI/CD`
+- **Destaques:** Interface responsiva de alta performance com filtragem dinâmica de tecnologias por domínio, linha do tempo de carreira e integração de download direto de currículo.
 
 ---
 
-## 5. Experiência Profissional
+## 6. Formação Acadêmica e Qualificações
 
-### Orbe Soft
+### 6.1 Ensino Superior: Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
+**Universidade Pitágoras Unopar Anhanguera** · *2026 - 2028 (Em andamento)* · **2.000+ horas**
+- Graduação tecnológica com foco em Engenharia de Software, Programação Orientada a Objetos (`Java`), Inteligência Artificial Aplicada, Modelagem e Implementação de Bancos de Dados Relacionais, Arquitetura em Nuvem, Redes de Computadores e Qualidade/Testes de Software.
 
-**Empresa de Tecnologia e Desenvolvimento de Software**
-Maio de 2025 – Maio de 2026 · **1 ano**
+### 6.2 Qualificação Profissional Técnica: Programador Web
+**SENAC Tubarão, SC** · *2º Semestre de 2025 (Concluído)* · **240 horas**
+- Formação técnica integralizada cobrindo concepção e prototipação de aplicações web, desenvolvimento front-end, construção de serviços back-end, integração com bancos de dados e publicação de aplicações em ambiente de produção.
 
-A trajetória na Orbe Soft foi marcada por crescimento contínuo e evolução progressiva de responsabilidades. O início na área de suporte técnico permitiu compreender profundamente os sistemas e o fluxo operacional da empresa. A transição para QA Tester desenvolveu o olhar analítico e o rigor técnico na avaliação de qualidade de software. A atuação final como Desenvolvedor Web Frontend consolidou as habilidades práticas de construção de interfaces e entrega de produtos digitais — completando um ciclo de experiência que abrange desde a operação até a criação.
+### 6.3 Qualificação Profissional Técnica: Programador de Sistemas
+**SENAC Tubarão, SC** · *1º Semestre de 2025 (Concluído)* · **200 horas**
+- Formação técnica focada em análise e desenvolvimento de sistemas de informação, modelagem relacional (`SQL`), lógica de programação orientada a objetos e execução de testes e manutenção de sistemas.
 
----
-
-#### Cargo: Suporte Técnico
-
-Função inicial responsável pelo atendimento direto a usuários e clientes internos, com foco na continuidade das operações e resolução ágil de incidentes técnicos.
-
-- Recebimento, triagem e resolução de chamados técnicos, priorizando o restabelecimento das operações com o menor tempo de inatividade possível;
-- Diagnóstico de falhas em sistemas, ferramentas e aplicações corporativas, com registro estruturado de ocorrências para análise e prevenção de recorrências;
-- Identificação de problemas recorrentes e contribuição com sugestões de melhoria nos processos internos;
-- Comunicação objetiva com usuários de diferentes perfis técnicos, garantindo entendimento e satisfação no atendimento.
-
----
-
-#### Cargo: QA Tester — Analista de Qualidade de Software
-
-Responsável pela validação sistemática de aplicações web desenvolvidas pela empresa, assegurando qualidade, estabilidade e conformidade das entregas antes da publicação em produção.
-
-- Planejamento e execução de **testes funcionais, de regressão e de aceitação**, cobrindo fluxos críticos de negócio e cenários de borda;
-- Identificação, documentação detalhada e reporte estruturado de **bugs, falhas de comportamento e inconsistências de interface**, com descrição de passos para reprodução, ambiente afetado e grau de severidade;
-- Criação e manutenção de **casos de teste** e matrizes de cobertura, assegurando rastreabilidade entre requisitos e validações;
-- Acompanhamento do **ciclo de vida completo de defeitos** — da identificação à verificação pós-correção — em colaboração com os desenvolvedores responsáveis;
-- Participação ativa nas etapas de **validação e homologação de entregas**, contribuindo para redução de retrabalho e consistência das releases;
-- Elaboração de relatórios de qualidade e feedbacks técnicos para embasar decisões da equipe de produto.
-
----
-
-#### Cargo: Desenvolvedor Web Frontend
-
-Atuação no desenvolvimento e publicação de interfaces web para produtos e campanhas da empresa, com ênfase em qualidade visual, performance e experiência do usuário.
-
-- Desenvolvimento de **Landing Pages (LPs)** institucionais e comerciais com foco em conversão, clareza comunicacional e experiência do usuário — da estruturação semântica em HTML à estilização responsiva em CSS;
-- Criação, edição e publicação de páginas e seções de sites utilizando **Webflow** (plataforma no-code/low-code), permitindo entrega ágil sem dependência de infraestrutura de back-end;
-- Elaboração e manutenção de **documentações técnicas** de projetos internos — descrevendo arquitetura, fluxos, decisões de implementação e instruções de uso, com garantia de clareza e rastreabilidade para todas as equipes envolvidas;
-- Colaboração com equipes de design e produto para assegurar **fidelidade ao protótipo**, consistência visual e alinhamento com as diretrizes da marca;
-- Participação em revisões de código e alinhamentos técnicos com outros membros da equipe de desenvolvimento.
-
----
-
-## 6. Formação Acadêmica
-
-Toda a formação técnica foi realizada pelo **SENAC — Serviço Nacional de Aprendizagem Comercial, Santa Catarina**, instituição de reconhecimento nacional na área de educação profissional.
-
-> **Total acumulado: 600 horas de formação técnica.**
-
----
-
-### 6.1 Programador Web
-
-**SENAC Tubarão, SC** · 2º Semestre de 2025 · **240 horas**
-Eixo Tecnológico: Informação e Comunicação · Currículo Integralizado
-
-Curso técnico de formação completa em desenvolvimento web, estruturado para capacitar o profissional em todas as etapas de construção de aplicações para a internet. O percurso formativo cobriu desde a concepção e prototipação de projetos, passando pela estruturação de interfaces front-end e desenvolvimento de lógica e serviços back-end, até a publicação e disponibilização das aplicações em ambientes de produção. A grade curricular contemplou fundamentos de arquitetura de sistemas web, separação de responsabilidades entre cliente e servidor, boas práticas de desenvolvimento e metodologias para entrega e deploy de aplicações funcionais.
-
-**Unidades Curriculares:**
-
-- Elaborar projetos de aplicações para web
-- Estruturar aplicações front-end para web
-- Desenvolver aplicações back-end para web
-- Publicar aplicações web
-- Projeto Integrador — Programador Web
-
----
-
-### 6.2 Programador de Sistemas
-
-**SENAC Tubarão, SC** · 1º Semestre de 2025 · **200 horas**
-Eixo Tecnológico: Informação e Comunicação · Currículo Integralizado
-
-Curso técnico com foco na análise, desenvolvimento e manutenção de sistemas de informação. A formação abordou os fundamentos da engenharia de software aplicada, com ênfase na modelagem e implementação de bancos de dados relacionais, no desenvolvimento estruturado de sistemas e na aplicação de práticas de teste e manutenção para garantir a qualidade e a longevidade das soluções. O encerramento por meio de um Projeto Integrador possibilitou a aplicação prática e conjunta de todas as competências desenvolvidas ao longo do curso.
-
-**Unidades Curriculares:**
-
-- Desenvolver sistemas de informação
-- Implementar banco de dados
-- Realizar testes e manutenção do sistema de informação
-- Projeto Integrador — Programador de Sistemas
-
----
-
-### 6.3 Assistente Administrativo
-
-**SENAC Criciúma, SC** · Concluído em dezembro de 2020 · **160 horas**
-Eixo Tecnológico: Gestão e Negócios · Currículo Integralizado
-
-Curso técnico voltado à organização, execução e controle de processos e documentos administrativos em contexto organizacional. Embora distante da área de tecnologia, esta formação consolidou competências que se refletem diretamente na atuação profissional atual: organização metódica de informações, atenção a detalhes em documentos e processos, comunicação formal por escrito e capacidade de operar com rigor em ambientes estruturados. Habilidades que, combinadas à formação técnica em programação, compõem um perfil com diferencial na organização, documentação e comunicação dentro de equipes de desenvolvimento.
-
-**Unidades Curriculares:**
-
-- Organizar e executar atividades de apoio aos processos da organização
-- Elaborar, organizar e controlar documentos da organização
-- Projeto Integrador — Assistente Administrativo
+### 6.4 Qualificação Profissional Técnica: Assistente Administrativo
+**SENAC Criciúma, SC** · *Dezembro de 2020 (Concluído)* · **160 horas**
+- Formação voltada à gestão de processos organizacionais, documentação técnica e corporativa, controle de fluxos operacionais e comunicação empresarial estruturada.
 
 ---
 
 ## 7. Competências Comportamentais
 
-- **Zero-bug mindset — padrão de excelência na entrega:** postura pessoal de tolerância zero a defeitos em sistemas entregues — extremamente exigente e detalhista na validação de cada funcionalidade, o que se refletiu diretamente na atuação como QA Tester e no nível de acabamento técnico dos projetos desenvolvidos; entende que qualidade não é etapa final, mas compromisso embutido em cada linha de código;
-
-- **Aprendizado rápido e perfil autodidata:** capacidade comprovada de absorver novas tecnologias, ferramentas e metodologias de forma autônoma e eficiente — evidenciada pela evolução progressiva de funções ao longo de apenas um ano na Orbe Soft e pela aplicação de tecnologias de nível profissional avançado (Docker, Nginx, Redis, Prometheus, Clean Architecture) no projeto Kanghoo, sem formação universitária prévia na área;
-
-- **Versatilidade e adaptabilidade profissional:** experiência prática em três funções distintas dentro de uma mesma organização de tecnologia, demonstrando disposição para assumir responsabilidades diversas, adaptar-se a contextos variados e contribuir além das fronteiras de uma única especialidade;
-
-- **Rigor técnico e atenção a detalhes:** habilidade apurada durante a atuação como QA Tester, onde a precisão na identificação de inconsistências, a clareza na documentação de defeitos e o acompanhamento metódico do ciclo de vida de bugs foram competências exercitadas de forma contínua e sistemática;
-
-- **Comunicação técnica escrita:** capacidade de produzir documentações técnicas claras, organizadas e objetivas — adaptando o nível de linguagem conforme o público-alvo, seja equipes de engenharia ou stakeholders não técnicos — desenvolvida ao longo da experiência profissional e reforçada pela formação em gestão administrativa;
-
-- **Visão sistêmica do ciclo de desenvolvimento:** por ter atuado em suporte, qualidade e desenvolvimento dentro de um mesmo produto, possui uma perspectiva ampla sobre como cada etapa do processo impacta as demais — o que favorece a tomada de decisões mais conscientes e a colaboração eficaz entre diferentes áreas;
-
-- **Atualização tecnológica proativa:** acompanhamento ativo e constante das tendências, ferramentas e boas práticas do mercado de desenvolvimento web, mobile e inteligência artificial, com adoção prática das inovações no fluxo de trabalho cotidiano.
+- **Mentalidade Zero-Defect (Qualidade Embutida):** Rigor técnico na validação de cada entrega, unindo visão de desenvolvedor e analista de QA para prevenir regressões antes do deploy.
+- **Visão Sistêmica Ponta a Ponta:** Vivência real em suporte técnico, garantia de qualidade e desenvolvimento full stack, compreendendo o impacto de cada decisão arquitetural na operação e no usuário final.
+- **Comunicação Técnica Clara e Documentação:** Capacidade de traduzir requisitos de negócio e arquiteturas complexas em documentações claras para equipes de engenharia e stakeholders.
+- **Autonomia e Colaboração Assíncrona:** Disciplina para atuar em times 100% remotos nacionais e internacionais com entregas previsíveis, PRs bem documentados e comunicação proativa.
 
 ---
 
 ## 8. Idiomas
 
-| Idioma    | Nível         | Descrição                                                                                                                                            |
-| --------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Português | Nativo        | Comunicação oral e escrita em nível pleno, incluindo redação técnica e formal                                                                        |
-| Inglês    | Intermediário | Leitura e compreensão fluente de documentações técnicas, artigos, tutoriais e repositórios; comunicação escrita funcional em contextos profissionais |
+| Idioma | Nível | Competência Prática |
+| :--- | :--- | :--- |
+| **Português** | Nativo | Fluência plena oral e escrita, incluindo redação técnica e documentação arquitetural. |
+| **Inglês** | Intermediário / Profissional | Leitura fluente de documentações técnicas e código, escrita profissional para PRs, issues e comunicação assíncrona em equipes internacionais. |
+| **Espanhol** | Básico | Compreensão de leitura e comunicação básica em contextos técnicos. |
+
+---
+---
+
+# 🇺🇸 English Version (EN-US)
+
+## Table of Contents (EN-US)
+
+1. [Contact &amp; Links](#1-contact--links)
+2. [Executive Summary](#2-executive-summary)
+3. [Technical Stack](#3-technical-stack)
+4. [Professional Experience](#4-professional-experience)
+5. [Engineering Projects](#5-engineering-projects)
+6. [Education &amp; Certifications](#6-education--certifications)
+7. [Core Engineering Principles](#7-core-engineering-principles)
+8. [Languages](#8-languages)
 
 ---
 
-## 9. Dados Pessoais
+## 1. Contact &amp; Links
 
-| Campo              | Informação                     |
-| ------------------ | ------------------------------ |
-| Data de Nascimento | 11 de agosto de 2004           |
-| Idade              | 21 anos                        |
-| Naturalidade       | Laguna, Santa Catarina, Brasil |
-| Nacionalidade      | Brasileira                     |
+| Field | Details |
+| :--- | :--- |
+| **Full Name** | Rodrigo Souza Feliciano |
+| **Role** | Full Stack Software Developer (React, Next.js, TypeScript, Node.js, PostgreSQL, Docker &amp; React Native) |
+| **Location** | Laguna, Santa Catarina, Brazil (`UTC-3`) |
+| **Phone / WhatsApp** | [+55 (48) 99926-3583](https://wa.me/5548999263583) |
+| **Email** | [rodrigo.souza.f3liciano@gmail.com](mailto:rodrigo.souza.f3liciano@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/rodrigosouzafeliciano](https://www.linkedin.com/in/rodrigosouzafeliciano/) |
+| **GitHub** | [github.com/rodrigosouzafeliciano](https://github.com/rodrigosouzafeliciano) |
+| **Portfolio** | [portfolio-rodrigo-pink.vercel.app](https://portfolio-rodrigo-pink.vercel.app/) |
+| **Dynamite Jobs** | [dynamitejobs.com/profile/rodrigo-souza-feliciano](https://dynamitejobs.com/profile/YfM0PkscASa1FLcBRA9aVgBJxX62/rodrigo-souza-feliciano) |
+| **Availability** | 100% Remote (Global &amp; Brazil) · Full-Time or Contractor |
+
+---
+
+## 2. Executive Summary
+
+**Full Stack Software Developer** with hands-on experience building production web and mobile applications using **React, Next.js, TypeScript, Vue.js, React Native, Node.js (Koa and Express), PostgreSQL, and Redis**, combined with a strong foundation in **Software Quality Assurance (QA)** and production support.
+
+Creator of **[Kanghoo](https://github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo)**, a full-stack school transport and excursion management platform with live GPS tracking, engineered using **Clean Architecture**, `Awilix` dependency injection, 23+ REST routes, `Socket.IO` real-time telemetry, `Redis` caching, `Docker Compose` containerization, `Nginx` reverse proxy with SSL, and `Prometheus` + `Grafana` observability.
+
+At **Orbe Soft** (`May 2025 - August 2026`), progressed across Technical Support, QA Analyst, and Frontend Web Developer roles, gaining end-to-end ownership across software specification, interface development, functional/regression test execution, defect lifecycle tracking, and incident resolution.
+
+Currently pursuing an **Associate Degree of Technology (A.A.S.) in Systems Analysis and Development** at Universidade Pitágoras Unopar Anhanguera (`2026 - 2028`), complemented by **600 hours of technical certifications** from SENAC Santa Catarina. Strategically integrates AI-assisted development tools (`Claude Code`, `Codex`, `Cursor`, `Antigravity`, `Figma Make`, and `Stitch`) into daily engineering workflows while enforcing strict human code review, architectural boundaries, and zero-defect release standards.
+
+---
+
+## 3. Technical Stack
+
+- **Frontend Web:** `React`, `Next.js`, `TypeScript`, `JavaScript (ES6+)`, `Vue.js`, `Tailwind CSS`, `HTML5`, `CSS3`, `Bootstrap`, `Vite`, `Webflow`
+- **Mobile:** `React Native` (Android multi-platform development, hooks, navigation, REST &amp; WebSocket integration)
+- **Backend &amp; Architecture:** `Node.js (v20+)`, `Koa.js`, `Express.js`, `Python`, `Java (OOP)`, `Clean Architecture`, `Awilix DI`, `RESTful APIs`, `Socket.IO / WebSockets`
+- **Databases &amp; Caching:** `PostgreSQL (14+)`, `Redis (7+)`, Relational Data Modeling, Complex SQL Queries, Caching Strategies
+- **DevOps, Infrastructure &amp; Security:** `Docker`, `Docker Compose`, `Nginx (Reverse Proxy &amp; SSL/TLS)`, `Prometheus`, `Grafana`, `Git`, `GitHub Actions (CI/CD)`, `Linux / Bash`, `Vercel`, `JWT`, `RBAC`, `Bcrypt`, `Rate Limiting`
+- **Quality Assurance (QA):** Functional Testing, Regression Suites, Acceptance Testing, Test Case Matrices, Bug Lifecycle Management, Tier 2/3 Root-Cause Debugging
+
+---
+
+## 4. Professional Experience
+
+### 4.1 Full Stack Software Developer · Independent / Freelance
+**2025 - Present · Remote**
+
+- Architect and deliver full-stack web applications using **React, Next.js, TypeScript, and Node.js**, integrating relational databases (**PostgreSQL**) and caching layers (**Redis**).
+- Build cross-platform mobile applications for Android using **React Native**, consuming REST APIs and real-time WebSocket streams.
+- Develop high-conversion commercial and institutional landing pages optimized for core web vitals, accessibility, and responsive multi-device layouts.
+- Manage end-to-end project execution from requirements gathering and database modeling to containerized deployment and pre-release QA verification.
+
+### 4.2 Software Developer &amp; QA Analyst · Orbe Soft
+**May 2025 - August 2026 · Remote**
+
+Progressive multi-role trajectory across software development, quality assurance, and technical support:
+
+- **Frontend Web Developer:**
+  - Engineered responsive web interfaces and high-conversion landing pages using semantic HTML5, modern CSS3, JavaScript, React, and **Webflow**.
+  - Authored and maintained internal **technical documentation** covering system architecture, workflows, implementation decisions, and operational guides.
+  - Collaborated closely with product and design teams to ensure pixel-accurate implementation and visual consistency.
+- **QA Analyst / Software Tester:**
+  - Designed and executed **functional, regression, and user acceptance test suites**, covering critical business workflows and edge cases prior to production deployments.
+  - Documented and triaged defects with reproducible steps, environment metadata, and severity classifications, tracking the full defect lifecycle through post-fix verification.
+- **Technical Support (Tier 2/3):**
+  - Diagnosed and resolved production incidents through log analysis and code debugging, minimizing system downtime and mean time to resolution (MTTR).
+
+---
+
+## 5. Engineering Projects
+
+### 5.1 Kanghoo System: Real-Time School Transport &amp; Telemetry Platform
+- **Repository:** [github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo](https://github.com/rodrigosouzafeliciano/projeto-sistema-kanghoo)
+- **Architecture &amp; Engineering Highlights:**
+  - **Clean Architecture:** Strict separation across `Domain`, `Application`, `Infrastructure`, and `Interface` layers using `Awilix` dependency injection across **23+ REST routes**.
+  - **Live GPS Telemetry:** Real-time bidirectional communication powered by `Socket.IO` and `Redis` for live vehicle tracking, digital boarding/alighting check-ins, and automated guardian notifications.
+  - **Production Readiness:** Multi-layer security (`JWT`, `RBAC`, `Bcrypt`, `Rate Limiting`), `Docker Compose` environment parity, `Nginx` reverse proxy with SSL termination, and `Prometheus` + `Grafana` monitoring dashboards.
+
+### 5.2 Interactive Developer Portfolio
+- **Live URL:** [portfolio-rodrigo-pink.vercel.app](https://portfolio-rodrigo-pink.vercel.app/)
+- **Repository:** [github.com/rodrigosouzafeliciano/portfolio-rodrigo](https://github.com/rodrigosouzafeliciano/portfolio-rodrigo)
+- **Highlights:** Modular React 19 + Vite application with interactive stack filtering, responsive layout tokens, and automated continuous deployment on Vercel.
+
+---
+
+## 6. Education &amp; Certifications
+
+- **Associate Degree of Technology (A.A.S.) in Systems Analysis and Development**
+  *Universidade Pitágoras Unopar Anhanguera* · `2026 - 2028 (In Progress)` · **2,000+ hours**
+  Coursework: Object-Oriented Programming (`Java`), Applied Artificial Intelligence, Software Engineering, Relational Database Modeling, Cloud Architecture, and Software Quality Assurance.
+- **Technical Qualification Certificate: Web Developer (Programador Web)**
+  *SENAC Tubarão, SC, Brazil* · `2025` · **240 hours**
+  Full-stack web application design, frontend engineering, backend services, and production deployment.
+- **Technical Qualification Certificate: Systems Developer (Programador de Sistemas)**
+  *SENAC Tubarão, SC, Brazil* · `2025` · **200 hours**
+  Information systems development, relational database implementation (`SQL`), and software testing and maintenance.
+- **Technical Qualification Certificate: Administrative Assistant**
+  *SENAC Criciúma, SC, Brazil* · `2020` · **160 hours**
+  Organizational processes, structured technical/corporate documentation, and operational workflow control.
+
+---
+
+## 7. Core Engineering Principles
+
+- **Zero-Defect Delivery Mindset:** Treating quality assurance as an engineering discipline embedded in every commit, pull request, and release.
+- **Clean &amp; Maintainable Architecture:** Designing modular, decoupled systems that remain easy to test, scale, and reason about over time.
+- **Clear Technical Communication:** Writing comprehensive documentation, reproducible bug reports, and self-explanatory pull requests suited for asynchronous remote teams.
+
+---
+
+## 8. Languages
+
+| Language | Proficiency | Practical Application |
+| :--- | :--- | :--- |
+| **Portuguese** | Native | Full native command in spoken and written technical communication. |
+| **English** | Professional Working | Fluent reading of technical documentation and codebases; clear written communication for PRs, issues, and international remote collaboration. |
+| **Spanish** | Basic | Reading comprehension and basic communication in technical contexts. |
